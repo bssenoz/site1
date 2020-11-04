@@ -1,0 +1,48 @@
+body{
+font-family: 'Open Sans', sans-serif;
+background-image: url(img/arka13.jpg);
+}
+.menualani{
+	background-color:#f7f1e3;
+	width:900;
+	height:40px;
+	margin: auto auto auto auto;
+	border-radius:10px;
+    margin-top:70px;
+}
+.menu{
+	float:left;
+	margin-left:30px;
+	margin-top:10px;
+	color:#ffffff;
+}
+.menu:hover{
+	background-color:#b33939;
+}
+/*içerik kısmı*/
+.resimler img{width:450px; height:300px; border:600px;}
+.resimler{float:left; margin-top:70px; margin-left:100px;}
+.resimler2 img{width:250px; height:400px; border:600px;}
+.resimler2 {float:left; margin-top:70px; margin-left:100px;}
+.resimler3 img{width:450px; height:300px; border:600px;}
+.resimler3 {float:left; margin-top:70px; margin-left:100px;}
+.resimler4 img{width:260px; height:400px; border:600px;}
+.resimler4 {float:left; margin-top:70px; margin-left:100px;}
+.resimler5 img{width:250px; height:400px; border:300px;}
+.resimler5 {float:left; margin-top:70px; margin-left:100px;}
+.resimler6 img{width:250px; height:400px; border:300px;}
+.resimler6 {float:left; margin-top:70px; margin-left:100px;}
+/*içerik kısmı*/
+
+/*Alt Kısım*/
+.footer img{width:40px; height:40px;}
+.footer{
+position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:#f7f1e3;
+  color: white;
+  text-align: center;
+}
+/*Alt Kısım*/
